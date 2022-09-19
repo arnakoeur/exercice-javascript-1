@@ -63,3 +63,23 @@ h1 {
 .box.trigger-all-self {
   background: var(--blue-color);
 }
+
+.box.blue {
+  background-color: var(--blue-color);
+}
+
+.box.red {
+  background-color: var(--red-color);
+}
+
+.box.remove {
+  display: none;
+}
+
+.box.remove {
+  display: none;
+}
+
+.box.selftrigger {
+  background-color: var(--green-color);
+}
